@@ -22,7 +22,7 @@ int main()
             }
 
 
-            if (count>0 && count <=2)
+            if (count>0 && count ==2)
                 printf("%d la so nguyen to\n",m);
         }
 
